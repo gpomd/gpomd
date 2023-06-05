@@ -5,7 +5,7 @@
 
 🌐 GitHub Pages <a href= "https://gpomd.github.io/"> gpomd.github.io </a> 
   
-🔬 <a href= "http://dgp.cnpq.br/dgp/espelhogrupo/7109659684038039"> Espelho CNPQ </a>
+🔬 Espelho <a href= "http://dgp.cnpq.br/dgp/espelhogrupo/7109659684038039">CNPQ </a>
   
 🏗️ Fundado em 2020 por pesquisadores da <a href= "http://portal.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a> (UTFPR) do campus de Londrina, PR
   
